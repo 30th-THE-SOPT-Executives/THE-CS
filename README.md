@@ -30,11 +30,11 @@
 |이모지|태그|설명|
 |------|---|---|
 |`:sparkles:`|`✨New:	`|새로운  추가|
-|`:computer:`|`💻OS:	`|운영체제 공부 내용 추가|
-|`:file_cabinet:`|`🗄DB:	`|데이터베이스 공부 내용 추가|
-|`:file_folder:`|`📁DS:	`|자료구조 공부 내용 추가|
-|`:brain:`|`🧠Algo:	`|알고리즘 공부 내용 추가|
-|`:earth_asia:`|`🌏NW:	`|네트워크 공부 내용 추가|
+|`:purple_heart:`|`💜OS:	`|운영체제 공부 내용 추가|
+|`:blue_heart:`|`💙DB:	`|데이터베이스 공부 내용 추가|
+|`:green_heart:`|`💚DS:	`|자료구조 공부 내용 추가|
+|`:yellow_heart:`|`💛Algo:	`|알고리즘 공부 내용 추가|
+|`:brown_heart:`|`🤎NW:	`|네트워크 공부 내용 추가|
 |`:bug:`|`🐛Fix:	`|버그 수정|
 |`:speech_balloon:`|`💬Comment:	`|필요한 주석 추가 및 변경|
 |`:memo:`|`📝Docs:	`|문서 수정|
