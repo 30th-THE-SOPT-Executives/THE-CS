@@ -26,9 +26,9 @@
 ## 📚 Curriculum
 
 ### Operating System(운영체제) `완료`
-### DataBase(데이터베이스)  `진행중`
-### Data Structure(자료구조)
+### Data Structure(자료구조) `진행중`
 ### Algorithm(알고리즘)
+### DataBase(데이터베이스)  
 ### Network(네트워크)   
 
 
@@ -47,19 +47,13 @@
 - 가상 메모리
 - 캐시
 
-#### 🗄 DataBase(데이터베이스)
-- 데이터베이스
-- 정규화
-- Index
-- Transaction
-- NoSQL
-
 #### 📁 Data Structure(자료구조)
 - Array
 - Linked List
+- Hash Table
 - Stack & Queue
-- Tree & Binary Tree
 - Graph
+- Tree & Binary Tree
 - Deque
 - Heap & Priority Queue
 - Indexed Tree (Segment Tree)
@@ -70,12 +64,19 @@
   - DFS & BFS
   - 순열, 조합, 부분집합
 - 백트래킹(Backtracking)
+- 순열, 조합, 부분집합
+- Bitmask
+- 재귀함수
 - 분할 정복법(Divide and Conquer)
 - 탐욕 알고리즘(Greedy)
 - 동적 계획법 (Dynamic Programming)
 - 정렬 알고리즘
-  - 퀵 소트
-  - 머지 소트
+  - 퀵 정렬
+  - 병합 정렬
+  - 버블 정렬
+  - 삽입 정렬
+  - 선택 정렬
+  - 힙 정렬
 - 그래프
   - 최단 경로 알고리즘
   - Union Find & Kruskal
@@ -83,6 +84,13 @@
 - 문자열 처리 알고리즘
   - KMP 알고리즘
 
+#### 🗄 DataBase(데이터베이스)
+- 데이터베이스
+- 정규화
+- Index
+- Transaction
+- NoSQL
+  
 #### 🌏 Network(네트워크)
 - OSI 7 계층
 - TCP/IP 개념
