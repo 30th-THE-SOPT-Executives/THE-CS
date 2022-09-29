@@ -25,8 +25,8 @@
 
 ## 📚 Curriculum
 
-### Operating System(운영체제) `진행중`
-### DataBase(데이터베이스)
+### Operating System(운영체제) `완료`
+### DataBase(데이터베이스)  ``
 ### Data Structure(자료구조)
 ### Algorithm(알고리즘)
 ### Network(네트워크)   
